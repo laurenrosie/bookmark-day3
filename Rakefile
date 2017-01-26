@@ -13,4 +13,5 @@ namespace :database do
     DataMapper.auto_migrate!
     p "Auto-migrated (distructive)."
   end
+
 end
